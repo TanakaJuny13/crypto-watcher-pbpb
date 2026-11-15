@@ -1,0 +1,7 @@
+{
+  "name": "crypto-watcher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
