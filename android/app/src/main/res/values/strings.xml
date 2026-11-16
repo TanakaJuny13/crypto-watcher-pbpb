@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">crypto-watcher</string>
+    <string name="title_activity_main">crypto-watcher</string>
+    <string name="package_name">com.cryptowatcher.app</string>
+    <string name="custom_url_scheme">com.cryptowatcher.app</string>
+</resources>
